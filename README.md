@@ -1,3 +1,7 @@
+# This fork
+
+Due to vshaunmann's inactivity, I have decided to update and keep my fork of his repo, but have it up to date with the pull requests that were never accepted.
+
 # _GalaXQL Tutorial Solutions_
 
 _SQL tutorial covering basic, intermediate and advanced SQL functions._
